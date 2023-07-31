@@ -29,8 +29,8 @@
 		"search": "Rechercher",
 		"setting": "Paramètre | Paramètres",
 		"show": "Afficher",
-		"support_notice_link": "me payer une bière 🍺",
-		"support_notice": "Si vous aimez ce tracker, montrez moi votre appreciation avec {link} 🍺",
+		"support_notice_link": "me payant une bière 🍺",
+		"support_notice": "Si vous aimez ce tracker, montrez moi votre appreciation en {link} 🍺",
 		"translated_by": ", traduis par {0}",
 		"weapon": "Arme | Armes",
 		"unlocked": "Débloqué"
@@ -330,12 +330,13 @@
 			"kills": "{amount} éliminations",
 			"point_blank": "{amount} éliminations à bout portant",
 			"suppressor": "{amount} éliminations en utilisant un silencieux",
-			"time_limit": "{amount} éliminations à {seconds} d'intervalle {times} fois",
+			"time_limit": "{amount} éliminations à {seconds} secondes d'intervalle {times} fois",
 			"akimbo": "{amount} éliminations avec l'accessoire Akimbo",
 			"without_dying": "{amount} éliminations sans mourrir {times} fois",
 			"longshot": "{amount} éliminations à longue distance",
 			"headshot": "{amount} éliminations d'un tir dans la tête",
-			"destroy_streaks_equipment_or_vehicles": "Detruisez {amount} séries d'éliminations, équipements ou vehicules"
+			"destroy_streaks_equipment_or_vehicles": "Detruisez {amount} séries d'éliminations, équipements ou vehicules",
+			"focused": "{amount} éliminations en étant concentré"
 		}
 	},
 	"weapon_categories": {
